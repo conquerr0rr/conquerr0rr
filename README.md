@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a MERN Stack Developer looking forward to build something great by experimenting everyday.  
+I'm a Front end developer looking forward to build something great by experimenting everyday.  
 
 I also like to play games a lot when im not doing work.
 
@@ -23,6 +23,8 @@ I also like to play games a lot when im not doing work.
 
 - React & React Native
 - MongoDB
+- Redux
+- CSS/SCSS
 - NodeJs With Express
 
 ### Tools I Use
