@@ -23,9 +23,12 @@ I also like to play games a lot when im not doing work.
 
 - React & React Native
 - MongoDB
-- Redux
+- Redux / Redux Toolkit
 - CSS/SCSS
 - NodeJs With Express
+- Material UI
+- Firebase
+- Typescript
 
 ### Tools I Use
 
